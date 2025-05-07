@@ -3,7 +3,7 @@
   "symbol": "$CARRY",
   "description": "CARRYFI is first solana based boosting platform, where users are able to purchase boosting services from experienced players. boost ranks, playtime and many more using your favourite solana wallet",
   "image": "https://raw.githubusercontent.com/nika110/Carr/refs/heads/main/carryfi.jpg",
-  "showName": "true",
+  "showName": true,
   "createdOn": "https://pump.fun",
   "website": "https://www.carryfi.fun",
   "twitter": "https://x.com/carryfidotfun",
